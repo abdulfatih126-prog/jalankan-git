@@ -3,5 +3,7 @@ Halo Git
 belajar git seru banget!
 
 sangat seru!!!!
-diedit langsung dari github
+di edit langsung dari GitHub
+
+aku ingin mengulang 
 
